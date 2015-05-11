@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Mardy A. dela Cruz -- Web Developer -- @Mhardz17
 
 # THANKS
 
-    <name>
+    Thanks to Marina Mele
 
 # TECHNOLOGY COLOPHON
 
+    Django
     HTML5, CSS3
     jQuery, Modernizr

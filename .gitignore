@@ -1,4 +1,7 @@
 db.sqlite3
 __pycache__
 TaskBuster.sublime-workspace
-TaskBuster.sublime-project
+TaskBuster.sublime-project.coverage
+htmlcov
+.coverage
+.idea
