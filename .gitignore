@@ -5,3 +5,4 @@ TaskBuster.sublime-project.coverage
 htmlcov
 .coverage
 .idea
+taskbuster/fixtures
